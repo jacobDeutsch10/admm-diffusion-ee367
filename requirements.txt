@@ -1,0 +1,9 @@
+numpy
+scikit-image
+phyper
+scipy
+torch
+torchvision
+PIL
+tqdm
+matplotlib
